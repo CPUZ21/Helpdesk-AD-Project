@@ -1,6 +1,6 @@
 # Helpdesk Management with Active Directory & AWS
 
-# Link to video demonstration [[](https://www.loom.com/share/3c248b90d47a4349bbe46457a96c7386?sid=6c903229-1436-4ea3-acb6-96046278af8b)
+# [Link to video demonstration](https://www.loom.com/share/3c248b90d47a4349bbe46457a96c7386?sid=6c903229-1436-4ea3-acb6-96046278af8b)
 
 # Project Overview
 
