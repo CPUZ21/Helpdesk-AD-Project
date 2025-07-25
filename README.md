@@ -1,7 +1,5 @@
 # Helpdesk Management with Active Directory & AWS
 
-# [Link to video demonstration](https://www.loom.com/share/3c248b90d47a4349bbe46457a96c7386?sid=6c903229-1436-4ea3-acb6-96046278af8b)
-
 # Project Overview
 
 This project provided hands-on experience in managing Active Directory (AD) for user administration, combined with AWS cloud services. The main objective was to simulate a real-world helpdesk environment where I could perform tasks like resetting passwords, creating and deleting user accounts, and adding users to appropriate groups. By integrating AWS, I enhanced the security and scalability of the environment, simulating the real-world use of both on-premise and cloud-based IT solutions.
